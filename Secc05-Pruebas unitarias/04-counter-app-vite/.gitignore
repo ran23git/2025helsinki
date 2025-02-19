@@ -36,6 +36,10 @@ Secc04-primeros_pasoso_en_REACT IMAGENES/
 react/src/index.js
 
 
+# Excluir archivos fuera de 04-counter-app-vite
+../../Secc01-introduccion/
+../../Secc02-introduccion_a_REACT_y_conceptos_generales/
+../../Secc04-primeros_pasoso_en_REACT/
 
 
 
