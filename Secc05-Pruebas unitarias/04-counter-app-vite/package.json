@@ -8,9 +8,10 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "test": "jest --watchAll"
+    "test": "jest --watchAll"
   },
   "dependencies": {
+    "@types/jest": "^29.5.14",
     "prop-types": "^15.8.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
