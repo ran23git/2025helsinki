@@ -1,5 +1,3 @@
-//import { getHeroeById } from '../../base-pruebas/08-imp-exp';
-//import { getHeroeById } from '../../src/base-pruebas/08-imp-exp';
 import { getHeroeById } from './08-imp-exp';
 
 
