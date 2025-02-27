@@ -6,8 +6,14 @@ export const CounterApp = ({ value }) => {
   const [ counter, setCounter ] = useState( value );
 
   const handleAdd = () => {
-    //console.log(event);
     setCounter( counter + 1);
+  }
+  const handleSubtract = () => {
+    setCounter(counter - 1); // Resto 1 al contador
+  }
+
+  const handleReset = () => {
+    setCounter(value); // Reseteo el contador a 0
   }
 
   return (
@@ -15,12 +21,13 @@ export const CounterApp = ({ value }) => {
       <h1>CounterApp</h1>
       <h2>{counter}</h2>
       <button onClick={handleAdd}>+1</button>
+      <button onClick={handleSubtract}>-1</button>
+      <button onClick={handleReset}>Reset</button>
     </>
   );
 };
 
 // Valores por defecto para las props
 CounterApp.defaultProps = {
-  Contador1: "como no vino ningun titulo, ESTE LO SERA X DEFECTO",
-  Contador2: "Este subtítulo es por defecto también",
+  value: 0,
 };
