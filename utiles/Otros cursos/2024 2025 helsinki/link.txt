@@ -1,0 +1,503 @@
+
+https://www.youtube.com/watch?v=ZWHJSS4ZtIk&list=PLO8lO9oepSLv0zh2j644zWefsxEGR8zdC&index=1
+¿QUÉ es REACT? ¿POR QUÉ debo UTILIZARLO? | 00 - Curso COMPLETO de REACT desde CERO [2025]
+
+
+
+
+
+
+
+▶tiene 2277 minutos= 38 horas (82 videos)inicio en enero2024 y termino enero2025--------------------------------------------------------------------------------------
+1
+14:24
+¿QUÉ es REACT? ¿POR QUÉ debo UTILIZARLO? | 00 - Curso COMPLETO de REACT desde CERO [2025]
+Picando Código
+
+2
+
+33:43
+REACT VS JAVASCRIPT VANILLA | 01 - Curso COMPLETO de REACT desde CERO [2025]
+Picando Código
+
+3
+
+15:23
+¡Desarrollando por PRIMERA vez código en REACT! | 02 - Curso COMPLETO de REACT desde CERO [2025]
+Picando Código
+
+4
+
+20:41
+¡Creando nuestro PRIMER PROYECTO de REACT! | 03 - Curso COMPLETO de REACT desde CERO [2025]
+Picando Código
+
+5
+
+11:52
+¿POR QUÉ utilizar VITE con REACT? | 04 - Curso COMPLETO de REACT desde CERO [2025]
+Picando Código
+
+6
+
+16:49
+¡TODO sobre los COMPONENTES en REACT | 05 - Curso COMPLETO de REACT desde CERO [2025]
+Picando Código
+
+7
+
+24:49
+¿QUÉ es la SINTAXIS JSX en REACT? | 06 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+8
+
+22:49
+¡Creando un COMPONENTE en REACT desde CERO! | 07 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+9
+
+23:21
+¿CÓMO maneja REACT los COMPONENTES? | 08 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+10
+
+19:03
+¡Usando VALORES DINÁMICOS con REACT! | 09 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+11
+
+17:02
+¡RUTAS DINÁMICAS en REACT! | 10 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+12
+
+26:44
+¡Personalizando ATRIBUTOS con PROPS en REACT! | 11 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+13
+
+21:59
+¡OPTIMIZANDO nuestro DESARROLLO de PROPS en REACT! | 12 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+14
+
+18:26
+¡ESTRUCTURANDO nuestros COMPONENTES en REACT! | 13 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+15
+
+25:07
+¡ESTRUCTURANDO los ESTILOS en COMPONENTES de REACT! | 14 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+16
+
+26:52
+¡La PROP ESPECIAL CHILDREN en REACT! | 15 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+17
+
+24:14
+¡Programando EVENTOS en REACT! | 16 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+18
+
+26:40
+¡FUNCIONES como VALORES en las PROPS en REACT! | 17 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+19
+
+17:03
+¡PARÁMETROS PERSONALIZADOS en los EVENTOS en REACT! | 18 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+20
+
+21:00
+¡Intentando ACTUALIZAR mi INTERFAZ (UI) en REACT! | 19 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+21
+
+26:29
+¡Manejando STATES y utilizando REACT HOOKS! | 20 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+22
+
+22:33
+¡Desplegando CONTENIDO con STATES en REACT! | 21 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+23
+
+24:35
+¡Renderizando CONTENIDO CONDICIONAL en REACT! | 22 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+24
+
+17:43
+¡Estableciendo ESTILOS CSS DINÁMICOS en REACT! | 23 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+25
+
+31:49
+¡LISTADOS DINÁMICOS con método MAP en REACT! | 24 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+26
+
+30:21
+¡Puedes NO USAR sintaxis JSX! (React.createElement) | 25 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+27
+
+16:20
+¡FRAGMENT, un NUEVO COMPONENTE muy ESPECIAL! | 26 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+28
+
+20:39
+¡Es NECESARIO DIVIDIR nuestros COMPONENTES! | 27 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+29
+
+16:17
+¡Las PROPS NO son AUTOMÁTICAS! | 28 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+30
+
+23:01
+¡FORWARDED PROPS o PROPS TRANSMITIDAS en REACT! | 29 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+31
+
+19:01
+¡Desplegando MÚLTIPLES BLOQUES JSX! | 30 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+32
+
+29:17
+¡Creando MENÚS DINÁMICOS! | 31 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+33
+
+17:13
+¡Contenedores JSX PERSONALIZADOS! | 32 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+34
+
+27:29
+¡PROPS con VALORES por DEFECTO en REACT! | 33 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+35
+
+20:03
+¡TIC-TAC-TOE desarrollado desde CERO en REACT! | 34 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+36
+
+26:47
+¡COMPONENTES REUTILIZABLES para TIC-TAC-TOE! | 35 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+37
+
+27:20
+¡Manejando ESTADOS y CONDICIONES TERNARIAS! | 36 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+38
+
+15:00
+¡AISLAMIENTO de COMPONENTES! | 37 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+39
+
+22:20
+¿CÓMO deberias ACTUALIZAR los ESTADOS en REACT? | 38 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+40
+
+22:41
+COMUNICACIÓN BIDIRECCIONAL (TWO WAY BINDING) | 39 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+41
+
+23:45
+¡Renderizando MATRICES MULTIDIMENSIONALES! | 40 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+42
+
+23:59
+¡INMUTABILIDAD en los ESTADOS en REACT! | 41 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+43
+
+23:06
+¡ELEVANDO mis ESTADOS en REACT! | 42 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+44
+
+15:29
+¡ELEVANDO MIS ESTILOS! | 43 - CURSO DE REACT DESDE CERO [2024]
+Picando Código
+
+45
+
+57:38
+¡REFACTORIZACIÓN y repaso TIC TAC TOE en REACT! | 44 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+46
+
+19:37
+¡Evitando ESTADOS INNECESARIOS en REACT! | 45 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+47
+
+31:04
+¡OPERANDO nuestros ESTADOS en REACT! | 46 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+48
+
+25:18
+¡DERIVANDO los ESTADOS en REACT! | 47 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+49
+
+27:11
+¡Compartiendo ESTADOS con COMPONENTES en REACT! | 48 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+50
+
+33:41
+¡ESTADOS CONDICIONADOS en REACT! | 49 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+51
+
+27:25
+¡DERIVANDO INFORMACIÓN en REACT! | 50 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+52
+
+20:57
+¡IMPORTANDO INFORMACIÓN en REACT! | 51 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+53
+
+32:02
+¡ESTRUCTURANDO los ESTADOS en REACT! | 52 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+54
+
+35:30
+¡ITERANDO ESTRUCTURAS! | 53 - CURSO DE REACT DESDE CERO [2024]
+Picando Código
+
+55
+
+47:25
+¡ESTILOS CONDICIONALES en REACT! | 54 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+56
+
+39:44
+¡RENDERIZADO CONDICIONAL en REACT! | 55 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+57
+
+44:03
+¡Desarrollando un ESTADO ALTERNATIVO en REACT! | 56 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+58
+
+1:09:27
+¡Desarrollamos una REFACTORIZACIÓN FINAL en REACT! | 57 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+59
+
+33:41
+¿CÓMO DOTAR a tus REACT APPS con ESTILOS CSS? | 58 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+60
+
+1:01:06
+Creamos un LOGIN con REACT y CSS TRADICIONAL | 59 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+61
+
+25:58
+¿CÓMO utilizar CSS EN LÍNEA en REACT? | 60 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+62
+
+34:11
+¿QUÉ es CSS MODULES en REACT? | 61 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+63
+
+38:17
+¡Descubre STYLED COMPONENTS en REACT! | 62 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+64
+
+33:34
+¡Tenemos PROPS y ATRIBUTOS en Styled Components! | 63 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+65
+
+33:13
+¡Maneja PSEUDOSELECTORES y ANIDACIONES en Styled C! | 64 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+66
+
+35:55
+¡Descubre TAILWIND CSS y desata toda su POTENCIA! | 65 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+67
+
+47:39
+¡Migramos un LOGIN con TAILWIND CSS en REACT! | 66 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+68
+
+30:22
+¡Potencia toda tu CONFIGURACION en TAILWIND CSS! | 67 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+69
+
+31:26
+¡Dinamiza la APARIENCIA de tu web con TAILWIND CSS! | 68 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+70
+
+26:51
+¡Aplica las INCREIBLES DIRECTIVAS de TAILWIND CSS! | 69 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+71
+
+21:15
+¿Qué es Debugger en React? | 70 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+72
+
+39:52
+¡Descubre las HERRAMIENTAS para DESARROLLADORES! | 71 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+73
+
+30:40
+¡Necesitas UTILIZAR esta EXTENSION REACT DEVTOOLS! | 72 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+74
+
+24:44
+¡Analiza TODO tu CÓDIGO con STRICT MODE en REACT! | 73- Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+75
+
+38:41
+¡Tenemos NUEVO PROYECTO y aprendemos REFS y PORTALS! | 74- Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+76
+
+35:06
+¡Almacenamos TODA la INFORMACIÓN en STATES! | 75 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+77
+
+31:10
+¡Cómo UTILIZAR el hook useRef en React (Refs)? | 76 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+78
+
+32:06
+¡Desarrollamos NUEVOS COMPONENTES en React! | 77 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+79
+
+25:56
+¡Use REF y SCOPE en Componentes de REACT! | 78 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+80
+
+27:01
+¡Maquetando un COMPONENTE DIALOG en REACT! | 79 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+81
+
+26:41
+¡Descubrimos el uso de ForwardRef! | 80 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+82
+
+33:40
+¡CONTROLA tus COMPONENTES con useImperativeHandle! | 81 - Curso COMPLETO de REACT desde CERO [2024]
+Picando Código
+
+
